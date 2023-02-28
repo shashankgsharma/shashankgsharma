@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning and exploring everything 😅
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Photography and Chess
 
 ### Connect with me:
@@ -49,8 +49,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawshank-01&layout=compact&hide=html" alt="CRYPTOcoderAS" /> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Shawshank01&show_icons=true" alt="CRYPTOcoderAS" /></p>
+  <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankgsharma&layout=compact&hide=html" alt="shashankgsharma" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=shashankgsharma&show_icons=true" alt="shashankgsharma" /></p>
 
 </details>
 
