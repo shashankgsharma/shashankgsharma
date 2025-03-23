@@ -10,7 +10,7 @@ I've been implementing various projects in different fields of AI: Machine Learn
 * ✉️  You can contact me at [shashank.0901sharma@gmail.com](mailto:shashank.0901sharma@gmail.com)
 * 🧠  I'm learning NLP-based models and techniques to implement various applications that use text as a modality.
 * 🤝  I'm open to collaborating on GenAI projects that leverage state of the art technologies to develop creative applications.
-* ⚡  I'm Secretly Shaktiman, but don't tell anyone!
+* ⚡  I'm Secretly Shaktiman, but don't tell anyone! And, I also play decent chess, checkout my <a href="https://www.chess.com/member/shashankgsharma" target="_blank">Chesscom Profile</a>.
 
 <a href="https://www.github.com/shashankgsharma" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/shashankgsharma?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
